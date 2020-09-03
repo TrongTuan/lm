@@ -1,1 +1,4 @@
-alert("lap mang viettel");
+
+$(document).ready(function() {
+  alert("lap mang viettel");
+});
